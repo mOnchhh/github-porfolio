@@ -4,6 +4,8 @@ This project contains the source code and relevant dataset for a machine learnin
 
 It mainly employs two machine learning models - Logistic Regression and Random Forest Classification - to predict the attribute "quality_category," and Random Forest Regression to predict the attribute "quality_score," all using the dataset's other attributes.
 
+The file "CSCI_111_Final_Project" is a Jupyter Notebook containing the code used in the training and testing of the machine learning models. More detail can be found in the notebook itself under the "Instructions" section.
+
 # Dataset Overview
 
 The dataset "banana_quality_dataset.csv" contains 1000 banana samples with 16 different attributes that each refer to a different characteristic the banana possesses. This dataset was retrieved from kaggle, titled [Banana Quality Dataset](https://www.kaggle.com/datasets/mrmars1010/banana-quality-dataset). The following block code contains the explanation for each attribute found within the dataset:
